@@ -1,4 +1,4 @@
-# Data_Science_Portfolio
+# Data Science Portfolio
 
 Projects:
 1. Stock Index prediction using several ML classifiers
