@@ -33,3 +33,11 @@ This project will unfold both on MITx and on your local machine. You are welcome
 How to Test Locally: In your terminal, navigate to the directory where your project files reside. Execute the command python test.py to run all the available tests.
 
 How to Run your Project 1 Functions Locally: In your terminal, enter python main.py. You will need to uncomment/comment the relevant code as you progress through the project.
+
+
+![image](https://user-images.githubusercontent.com/53486980/112344351-6149a280-8c9a-11eb-921a-9f0ca514cc94.png)
+
+![image](https://user-images.githubusercontent.com/53486980/112344628-a968c500-8c9a-11eb-8710-b5c625f92524.png)
+
+![image](https://user-images.githubusercontent.com/53486980/112344674-b685b400-8c9a-11eb-82ea-d02a55e6c666.png)
+
