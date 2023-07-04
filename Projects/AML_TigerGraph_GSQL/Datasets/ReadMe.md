@@ -13,6 +13,7 @@ Contains the transactions which triggered an alert according to AML guidelines.
 
 #### Transactions: 
 Contains the list of all the transactions with information about sender and receiver accounts.
+Link: https://drive.google.com/file/d/1l5EzNObCWodiWNvqRwpAsSIG0IZSKsBJ/view?usp=share_link
 
 
 ## Acknowledgements:
