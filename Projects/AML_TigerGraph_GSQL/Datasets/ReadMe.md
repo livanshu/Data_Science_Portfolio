@@ -1,14 +1,21 @@
 
 This dataset is an example dataset generated from IBM AMLSim.
 
-Datasets:
+## Datasets:
 
 There are 3 datasets mentioned here: alerts, transactions and accounts.
 
-Accounts dataset: Contains the information about all the bank accounts whose transactions are monitored.
-Alerts dataset: Contains the transactions which triggered an alert according to AML guidelines.
-Transactions dataset: Contains the list of all the transactions with information about sender and receiver accounts.
-Acknowledgements:
+#### Accounts: 
+Contains the information about all the bank accounts whose transactions are monitored.
+
+#### Alerts: 
+Contains the transactions which triggered an alert according to AML guidelines.
+
+#### Transactions: 
+Contains the list of all the transactions with information about sender and receiver accounts.
+
+
+## Acknowledgements:
 
 Do check out the AML Sim project and generate your own datasets for AML purposes.
 Link: https://github.com/IBM/AMLSim
