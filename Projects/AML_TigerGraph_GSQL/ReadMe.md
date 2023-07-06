@@ -15,6 +15,15 @@ There are 3 datasets mentioned here: alerts, transactions and accounts.
 - Alerts dataset: Contains the transactions which triggered an alert according to AML guidelines.
 - Transactions dataset: Contains the list of all the transactions with information about sender and receiver accounts.
 
+### Steps:
+1. Connecting to TigerCloud
+2. Create Design Schema
+3. Load Data
+4. Write and Install Queries
+5. Explore graph and Built Patterns
+6. ML Modelling
+7. Results and Conclusion
+
 
 
 ## 1. Connecting to TigerGraph Cloud
