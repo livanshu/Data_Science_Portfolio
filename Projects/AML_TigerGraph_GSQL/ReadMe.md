@@ -1,5 +1,5 @@
 # Project Overview
-The following project details describe the utilization of graph databases for fraud detection, specifically focusing on the implementation of IBM's AMLSim project dataset. The objective is to classify banking transactions as either fraudulent or legitimate by leveraging the capabilities of **TigerGraph's graph** databases. 
+The following project details describe the utilization of graph databases for **fraud detection**, specifically focusing on the implementation of IBM's AMLSim project dataset. The objective is to classify banking transactions as either fraudulent or legitimate by leveraging the capabilities of **TigerGraph's graph** databases. 
 
 **IBM AMLSim**
 
