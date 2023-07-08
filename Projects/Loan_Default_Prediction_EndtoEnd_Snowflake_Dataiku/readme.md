@@ -4,7 +4,7 @@
 
 To build a binary classification model that predicts the likelihood of a lender defaulting on a loan. 
 
-![Alt text](https://github.com/livanshu/Data_Science_Portfolio/blob/main/Projects/Loan_Default_Prediction_EndtoEnd_Snowflake_Dataiku/Pipeline.png)
+![Alt text](https://github.com/livanshu/Data_Science_Portfolio/blob/main/Projects/Loan_Default_Prediction_EndtoEnd_Snowflake_Dataiku/Images/Pipeline.png)
 
 ## Dataset
 
