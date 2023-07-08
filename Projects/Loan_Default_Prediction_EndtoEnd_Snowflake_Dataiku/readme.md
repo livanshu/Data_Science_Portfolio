@@ -23,3 +23,6 @@ To build a binary classification model that predicts the likelihood of a lender 
 8. Deployment
 9. Scoring
 
+## 1. Setting up and loading data in Snowflake
+
+![Alt text]()
