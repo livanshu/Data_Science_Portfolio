@@ -1,4 +1,4 @@
-# Loan Default Prediction (End to End ML)
+# Loan Default Prediction (End to End ML using Snowflake & Dataiku)
 
 ### Overview
 
