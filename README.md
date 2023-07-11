@@ -16,6 +16,16 @@ Contact: livanshu@gmail.com; livanshu.kashyap@gmail.com;
 
    https://app.hex.tech/97c67ab9-65ac-445a-9631-8c7227752a75/app/730b4a51-f606-4fb2-90d0-be276be64a49/latest
 
+4. Credit Card Fraud Detection using Pandas, Sklearn & Imblearn
+
+   https://github.com/livanshu/Data_Science_Portfolio/blob/main/Projects/fraud-detection.ipynb
+
+5. Housing Price Prediction using Advanced Regression using stacking ensemble of models
+
+   https://github.com/livanshu/Data_Science_Portfolio/tree/main/Projects/Housing_Price_Advanced_Regression
+
+   
+
 
 ## Certifications:
 ![Alt text](https://github.com/livanshu/Data_Science_Portfolio/blob/main/My%20Cheat%20Sheets/Portfolio%20Images/111.png)
