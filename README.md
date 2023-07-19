@@ -14,6 +14,8 @@ Contact: livanshu@gmail.com; livanshu.kashyap@gmail.com;
 
 5.  [Housing Price Prediction using Advanced Regression using stacking ensemble of models](https://github.com/livanshu/Data_Science_Portfolio/tree/main/Projects/Housing_Price_Advanced_Regression)
 
+6.  [Churn Predicting App using Snowflake & Hex](https://app.hex.tech/97c67ab9-65ac-445a-9631-8c7227752a75/app/f406a7bf-08d9-4802-9c87-7a40fb798d6f/latest)
+
    
 
 
